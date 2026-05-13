@@ -1,0 +1,24 @@
+ViSQL — Course project for EECS 6895 (Columbia University, Spring 2026)
+
+Copyright (c) 2026 Leah Li (ql2481@columbia.edu)
+
+This software is provided for educational and academic use only as part of
+coursework for EECS 6895 (Advanced Big Data and AI) at Columbia University.
+
+Permission is granted to use, copy, and modify this software for educational,
+research, or academic purposes, subject to the following conditions:
+
+1. This notice and the above copyright notice must be retained in all copies
+   or substantial portions of the software.
+
+2. The software is provided "AS IS", without warranty of any kind, express or
+   implied. The author shall not be held liable for any damages arising from
+   the use of this software.
+
+Third-party data and model dependencies retain their respective licenses:
+
+  - Spider 1.0 dataset (Yu et al., EMNLP 2018) — CC BY-SA 4.0
+  - BigQuery Public Datasets — see Google Cloud terms
+  - Llama-3.x model weights — Meta Llama 3 Community License
+  - SQLCoder-7B-2 — see Defog AI license
+  - Claude Sonnet 4.5 — accessed via the Anthropic API under Anthropic's terms
